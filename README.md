@@ -12,13 +12,7 @@ Este projeto é uma implementação simples de um jogo de dominó em C. O jogo p
 
 ## Estrutura do Código
 
-O código é dividido em várias funções e estruturas para modularizar o jogo. As principais partes incluem:
-
-### Estruturas
-
-- **`peca`**: Representa uma peça de dominó com dois valores (`e` e `d`).
-- **`pecas_disponiveis`**: Contém um array de peças e informações sobre o índice e quantidade de peças disponíveis.
-- **`estado`**: Contém o estado do jogo, incluindo as peças na mesa, as peças disponíveis, e as peças dos jogadores.
+O código é dividido em várias funções. As principais delas são:
 
 ### Funções Principais
 
